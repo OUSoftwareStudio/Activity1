@@ -16,6 +16,6 @@ This is the test out activity for Stage 1. If you have any questions feel free t
 
 7) Each time you have tested and resolved the bug issue in one of the program files, you will add commit and push. For the message you will put “fixed blank” where blank is the name of the test file fixed.
    
-8)After all files are fixed you will merge your branch back up to main/master (either create a pull request or merge on command line)
+8)After all files are fixed you will merge your branch back up to main/master (either create a pull request or merge on command line).
 
 9)At the end you will show me your entire network graph. You should have five total dots. Two commits on main and three on the “fixing_bugs” branch.
